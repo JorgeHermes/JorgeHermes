@@ -33,8 +33,8 @@ Me chamo Jorge Hermes e moro em Guaramirim, Santa Catarina. Atualmente curso An√
 <h3 align="left">GitHub Stats</h3>
 
 <p>
-  <img alt="GitHub Stats" height="165" src="./profile/stats.svg" />
-  <img alt="Linguagens mais usadas" height="165" src="./profile/top-langs.svg" />
+  <img align="left" alt="GitHub Stats" height="185" style="padding-right: 10px;" src="./profile/stats.svg" />
+  <img align="left" alt="Linguagens mais usadas" height="185" src="./profile/top-langs.svg" />
 </p>
 
 <picture align="center">
