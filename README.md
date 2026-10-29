@@ -10,13 +10,13 @@ Me chamo Jorge Hermes e moro em Guaramirim, Santa Catarina. Atualmente curso An√
 
 #
 
-<h3 align="left">Conecte-se comigo!</h3>
+<h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&color:FFF)](mailto:jlhermesfilho@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&color:FFF)](https://www.linkedin.com/in/SEU-USUARIO/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&color:FFF)](https://www.instagram.com/wtf.hermes/)
 
-<h3 align="left">Minha Stack ~</h3>
+<h3 align="left">My Stack ~</h3>
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -33,8 +33,8 @@ Me chamo Jorge Hermes e moro em Guaramirim, Santa Catarina. Atualmente curso An√
 <h3 align="left">GitHub Stats</h3>
 
 <p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="./profile/stats.svg" />
-  <img align="left" alt="Linguagens mais usadas" height="200" src="./profile/top-langs.svg" />
+  <img alt="GitHub Stats" height="165" src="./profile/stats.svg" />
+  <img alt="Linguagens mais usadas" height="165" src="./profile/top-langs.svg" />
 </p>
 
 <picture align="center">
