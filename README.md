@@ -26,6 +26,7 @@ Me chamo Jorge Hermes e moro em Guaramirim, Santa Catarina. Atualmente curso An�
 <img align="left" alt=".NET" title=".NET" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+<img align="left" alt="Caché" title="Caché" height="30px" style="padding-right: 10px;" src="https://img.shields.io/badge/-Cach%C3%A9-000?style=for-the-badge" />
 <br/>
 <br/>
 
