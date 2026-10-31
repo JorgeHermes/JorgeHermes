@@ -13,7 +13,7 @@ Me chamo Jorge Hermes e moro em Guaramirim, Santa Catarina. Atualmente curso An√
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&color:FFF)](mailto:jlhermesfilho@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&color:FFF)](https://www.linkedin.com/in/SEU-USUARIO/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&color:FFF)](https://www.linkedin.com/in/jorgehermesfilho/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&color:FFF)](https://www.instagram.com/wtf.hermes/)
 
 <h3 align="left">My Stack ~</h3>
